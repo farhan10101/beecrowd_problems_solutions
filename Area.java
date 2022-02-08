@@ -1,8 +1,8 @@
- 
+ ///beecrowd problemss......areaofcircle_1002
 package problemsolving;
 
 import java.util.Scanner;
-public class Area {
+public class 1002 {
     public static void main(String[] args) {
         
        double A,B,C,TRIANGULO,CIRCULO,TRAPEZIO,QUADRADO,RETANGULO;
